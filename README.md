@@ -1,0 +1,2 @@
+# Inshorts-
+Inshorts Clone - MERN
